@@ -10244,8 +10244,8 @@ header.masthead .masthead-heading {
   /*max-width: 100vw;*/
 }
 .portfolio-modal .modal-content {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-top: 4rem;
+  padding-bottom: 4rem;
   text-align: center;
 }
 .portfolio-modal .modal-content h2 {
